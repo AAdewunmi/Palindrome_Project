@@ -18,6 +18,6 @@ $ cd Palindrome_Project.git
 
 ## Console display : 
 
-![Image of Console]()
+![Image of Console](Screenshot.png)
 
 
